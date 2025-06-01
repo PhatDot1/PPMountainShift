@@ -1,4 +1,4 @@
-# MountainShift: A Multi Liquidity Pool Swapping Platform Powered by Flare's FTSO
+# MountainShift: A Multi Liquidity Pool Swapping Platform Powered by FTSO + Offchain API's
 
 MultiPoolSwapRouter deployed to: 0xa195ACcEB1945163160CD5703Ed43E4f78176a54
 
